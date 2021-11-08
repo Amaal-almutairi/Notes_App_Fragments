@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes_App_(Fragments)</string>
+    <string name= "preference_file_key">com.example.Notes_App_(Fragments).PREFERENCE_FILE_KEY</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
